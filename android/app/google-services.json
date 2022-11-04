@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "387884389615",
+    "project_id": "fcm-test-d7cf6",
+    "storage_bucket": "fcm-test-d7cf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387884389615:android:48b6e9c524298a9de3771a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_fcm_laravel_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387884389615-4h2363qqa7ugf7q7de7885l7drtqiubm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJp9DQVVTEqtNtPUx1hDcM8TcCU6x0eLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387884389615-4h2363qqa7ugf7q7de7885l7drtqiubm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
